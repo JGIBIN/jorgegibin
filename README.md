@@ -43,9 +43,3 @@ O processo de análise foi dividido nas seguintes etapas:
 ## Conclusão
 
 O estudo forneceu insights valiosos sobre o comportamento da população brasileira durante a pandemia de COVID-19 e as principais características associadas ao agravamento da doença. A análise de dados ajudou a desenvolver uma compreensão mais profunda das necessidades da população, proporcionando recomendações para otimizar a resposta de saúde pública em futuros surtos.
-
-## Referências
-
-- **IBGE**: Base de dados PNAD-COVID19 (2020).
-- **Power BI e Looker Studio**: Utilização de Power BI para criação de dashboards interativos.
-- **Python**: Bibliotecas utilizadas para análise de dados no Google Colab.
