@@ -2,11 +2,11 @@
 
 ## Resumo
 
-Este projeto foi realizado com o objetivo de compreender o impacto da pandemia de COVID-19 na população brasileira. A análise utilizou dados da **PNAD-COVID19**, fornecida pelo IBGE, abrangendo o período de setembro a novembro de 2020. O estudo visou identificar padrões de comportamento e sintomas prevalentes em diferentes faixas etárias, além de explorar a relação entre doenças crônicas e complicações associadas, como internações e intubações. Os resultados foram utilizados para fornecer recomendações estratégicas visando otimizar a gestão de recursos durante novos surtos.
+Este projeto foi realizado com o objetivo de compreender o impacto da pandemia de COVID-19 na população brasileira. A análise utilizou dados da **PNAD-COVID19**, fornecida pelo IBGE, abrangendo o período de Setembro/20 a Novembro/20. O estudo teve como objetivo identificar padrões de comportamento e a prevalência de sintomas em diferentes faixas etárias, além de explorar a relação entre doenças crônicas e complicações associadas, como internações e intubações. Os resultados obtidos foram utilizados para fornecer recomendações estratégicas, visando à otimização da gestão de recursos em futuros surtos.
 
 ## Objetivos
 
-O principal objetivo deste estudo foi:
+O principal objetivo deste projeto foi:
 
 - **Identificar padrões de comportamento** e **sintomas prevalentes** em diferentes faixas etárias.
 - **Explorar a relação entre doenças crônicas** e complicações como internações e necessidade de intubação.
@@ -49,7 +49,3 @@ O estudo forneceu insights valiosos sobre o comportamento da população brasile
 - **IBGE**: Base de dados PNAD-COVID19 (2020).
 - **Power BI e Looker Studio**: Utilização de Power BI para criação de dashboards interativos.
 - **Python**: Bibliotecas utilizadas para análise de dados no Google Colab.
-
-## Licença
-
-Este repositório está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais informações.
